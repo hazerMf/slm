@@ -1,0 +1,13 @@
+{
+  "name": "slm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SLM stand for stupid language model, with the aim to create a small, fast language model by sacrificing intelligent, and train on weird source.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
